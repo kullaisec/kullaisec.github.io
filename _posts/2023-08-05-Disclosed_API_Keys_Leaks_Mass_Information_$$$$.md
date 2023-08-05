@@ -1,5 +1,5 @@
 ---
-title: Disclosed API key to list user information and complete Exploitation !!
+title: Disclosed API key to list user information and complete Exploitation (Can Make $$$$) !!
 author:
   name: kullaisec
   link: https://github.com/kullaisec
@@ -8,8 +8,6 @@ categories: [Bugbounty]
 tags: [bugbounty]
 pin: true
 ---
-
-# Disclosed API key to list user information and complete Exploitation (Can Make $$$$)
 
 Hi, all This is Kullai (Security Researcher). Today I am going to share one of my interesting findings where API keys leaks user information.
 
@@ -82,6 +80,7 @@ Or you can manually search some sensitive tokens or keys and exploit them.
 2. You can make use of Automation tools or you can go with jadx-gui to read the Android source code or MobSF is also a good choice.
    
 3. And In that we can search sensitive keys/tokens and exploit them.
+
 
 ### Late But Not least Check View Page Source 
 
