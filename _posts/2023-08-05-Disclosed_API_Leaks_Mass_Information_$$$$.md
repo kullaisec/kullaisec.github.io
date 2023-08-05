@@ -1,5 +1,5 @@
 ---
-title: Disclosed API key to list user information and complete Exploitation !!
+title: Disclosed API key to list user information and complete Exploitation (Can Make $$$$) !!
 author:
   name: kullaisec
   link: https://github.com/kullaisec
@@ -8,8 +8,6 @@ categories: [Bugbounty]
 tags: [bugbounty]
 pin: true
 ---
-
-# Disclosed API key to list user information and complete Exploitation (Can Make $$$$)
 
 Hi, all This is Kullai (Security Researcher). Today I am going to share one of my interesting findings where API keys leaks user information.
 
