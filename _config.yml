@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/India
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -23,7 +23,7 @@ title: kullaisec # the main title
 tagline: Hacker , Bug hunter # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Let's Hack Ethically !! 
+  Bug hunting , hacking , Kullai Metikala , kullai , kullaisec 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://kullaisec.github.io"
