@@ -57,4 +57,4 @@ Red team at Pentabug
 
 🔵 [Twitter](https://twitter.com/kullai12)
 
-⬜ [Medium](https://medium.com/@metikalakullai.gtl)
+⬜ [Medium](https://kullaisec.medium.com/)
