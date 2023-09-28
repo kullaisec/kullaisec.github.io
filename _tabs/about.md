@@ -4,26 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello all this is Kullai Metikala I am a professional Bug bounty hunter, a Hacker, a Security Researcher I 
+Hello, I am Kullai Metikala, a dedicated professional engaged in the realm of cybersecurity as a Bug Bounty Hunter, Hacker, and Security Researcher. My expertise extends to successfully identifying vulnerabilities in renowned organizations such as Dell, Adobe, Splunk, IBM, Lenskart, Cognizant, Jio ... and over 100+ other reputable companies. I adhere to ethical practices by reporting these vulnerabilities and assisting organizations in resolving their security concerns.
 
-hacked Dell, Adobe, Splunk, IBM, Lenskart, Cognizant … more than 85+ Reputed Companies and Reported 
+Currently, I am furthering my education at Sree Vidyanikethan Engineering College / Mohan Babu University, pursuing a Bachelor of Technology degree in Computer Science and Cyber Security. My academic endeavors align seamlessly with my passion for cybersecurity, particularly focusing on penetration testing.
 
-Ethically and Help those companies in Solving their Vulnerabilities. I also write some articles on How I 
-
-found Vulnerabilities in Blog & Medium.
-
-Currently studying at Sree Vidyanikethan Engineering College/ Mohan Babu University
-
-I’m a BTech student pursuing Computer Science and Cyber Security
-
-I’m more passionate about cyber security and have knowledge about Pentesting
-
-I can do really well by continuously learning new things and adapting to different working environments & cultures
+I am driven by a profound enthusiasm for cybersecurity, constantly seeking opportunities to enhance my knowledge and skill set. My adaptability to diverse work environments and cultures empowers me to excel in a dynamic and ever-evolving field, where continuous learning is paramount. Additionally, I contribute my insights and experiences by crafting informative articles detailing my discoveries of vulnerabilities, which are published on various platforms including blogs and Medium.
 
 ## [Experience]
-I am presently working as Security Analyst Intern at TMG Security.
 
-Red team at Pentabug
+I am presently working as a Security Analyst Intern at TMG Security.
+
+The Red team at Pentabug
 
 ## [Skills]
 
@@ -35,7 +26,7 @@ Red team at Pentabug
 
 ⭕ API Pentesting
 
-⭕ Java , C
+⭕ Java, C
 
 ## [Tools]
 
