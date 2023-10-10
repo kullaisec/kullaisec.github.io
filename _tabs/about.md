@@ -16,6 +16,10 @@ I am presently working as a Security Analyst Intern at TMG Security.
 
 The Red team at Pentabug
 
+## [Certifications]
+
+- eJPTv2(eLearn Security Junior Penetration Testing v2)
+
 ## [Skills]
 
 ⭕ Penetration Testing
