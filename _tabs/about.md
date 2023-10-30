@@ -12,7 +12,9 @@ I am driven by a profound enthusiasm for cybersecurity, constantly seeking oppor
 
 ## [Experience]
 
-I am presently working as a Security Analyst Intern at TMG Security.
+Presently Working as Security Analyst at Secasure
+
+I worked as Security Analyst Intern at TMG Security
 
 The Red team at Pentabug
 
